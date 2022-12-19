@@ -42,4 +42,4 @@ I'm studying systems engineering. I like web development, mostly backend develop
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/carlosxmerca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-<p align="rigth"> <a href="https://www.hackerrank.com/eduarmercado4" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" height="32" /></a></p>
+<p align="right"> <a href="https://www.hackerrank.com/eduarmercado4" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" height="32" /></a></p>
