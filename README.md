@@ -16,10 +16,9 @@ I'm studying systems engineering. I like web development, mostly backend develop
 ### Certifications
 
 
-<div align="left">
-<div data-iframe-width="75" data-iframe-height="135" data-share-badge-id="364d6cc2-f9e7-4a7a-a811-f524dfa2fd7d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="75" data-iframe-height="135" data-share-badge-id="deb7e993-2767-4e1b-b20f-d919ada5a10e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<a align="left">
+    <a href="https://www.credly.com/badges/deb7e993-2767-4e1b-b20f-d919ada5a10e/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
+</a>
 
 
 ### Skills
