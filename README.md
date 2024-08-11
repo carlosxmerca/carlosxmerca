@@ -8,7 +8,7 @@ I'm studying systems engineering. I like web development, mostly backend develop
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [eduarmercado4@gmail.com](mailto:eduarmercado4@gmail.com)
-* 🚀  I'm currently working on [Cronos8studio](http://cronos8studio.com/)
+* 🚀  I'm currently working at [Lili App Technologies](https://liliapptecuida.com/)  and [Cronos 8 Studio](http://cronos8studio.com/)
 * 🧠  I'm learning Flask
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Love volleyball and BKB
