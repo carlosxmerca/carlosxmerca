@@ -1,17 +1,25 @@
 Hi 👋 My name is Carlos Mercado
 ===============================
 
-Web Developer
+Full stack developer | Cloud & CI/CD Enthusiast
 -------------
 
-I'm studying systems engineering. I like web development, mostly backend development. I have knowledge of medium - advanced web development. Knowledgeable about UI, tests and debugging processes. Experience in design, installation, testing and maintenance of web apps. Competent in C++, C#, Python, PHP, JS, TS; SQL and NoSQL databases.
+💻 I’m a software engineering and a passionate full stack developer with a strong focus on backend development and cloud technologies. I have solid experience in designing, deploying, testing, and maintaining web applications. Skilled in implementing CI/CD pipelines, working with containerization tools like Docker, and managing cloud infrastructure with AWS.
+
+✨ I’m also knowledgeable about UI design, testing, and debugging processes. Competent in JavaScript, TypeScript, Python, Java, C#, C++, and PHP, with experience using both SQL and NoSQL databases.
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [eduarmercado4@gmail.com](mailto:eduarmercado4@gmail.com)
 * 🚀  I'm currently working at [Lili App Technologies](https://liliapptecuida.com/)  and [Cronos 8 Studio](http://cronos8studio.com/)
-* 🧠  I'm learning Flask
+* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Love volleyball and BKB
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlosxmerca/)
+
+### Current focus
+* Mastering AWS cloud architecture
+* Building robust CI/CD pipelines with tools like GitHub Actions
+* Contributing to scalable healthtech solutions
 
 ### Certifications
 
@@ -19,7 +27,6 @@ I'm studying systems engineering. I like web development, mostly backend develop
 * [OCI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6430EC68E8C89E5F333E365520ABA9C31D8603317F80C74BAD1B7E4A1DA34362)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
